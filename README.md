@@ -72,3 +72,7 @@ LeetMetric/
 **Yash Verma**
 
 GitHub: https://github.com/Yash897542
+
+## Live Demo
+
+🌐 https://yash897542.github.io/Leetcode_Metrics/
